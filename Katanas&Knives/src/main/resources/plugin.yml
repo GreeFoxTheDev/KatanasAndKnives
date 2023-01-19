@@ -1,0 +1,6 @@
+name: Katanas&Knives
+version: '${project.version}'
+main: me.greefox.greefox.me.Greefox.me
+api-version: 1.19
+authors: [ GreeFox ]
+description: Adds craftable Katatnas and knives!
