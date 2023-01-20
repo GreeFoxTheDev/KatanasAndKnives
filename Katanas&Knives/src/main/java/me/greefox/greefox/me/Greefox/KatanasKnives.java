@@ -6,6 +6,10 @@ public final class KatanasKnives extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        Diamond.init();
+        Gold.init();
+        Iron.init();
+        Copper.init();
         // Plugin startup logic
 
     }
